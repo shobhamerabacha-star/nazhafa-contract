@@ -4,4 +4,5 @@
 *.bin
 
 # local environment files
-.env
+config.bat
+node_modules
